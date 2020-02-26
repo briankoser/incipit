@@ -1,0 +1,492 @@
+[
+  {
+    "book": "1984",
+    "author": "George Orwell",
+    "incipit": "It was a bright cold day in April, and the clocks were striking thirteen."
+  },
+  {
+    "book": "2001: A Space Odyssey",
+    "author": "Arthur C. Clarke",
+    "incipit": "Behind every man now alive stand thirty ghosts, for that is the ratio by which the dead outnumber the living.",
+    "notes": "Verify"
+  },
+  {
+    "book": "A Christmas Carol",
+    "author": "Charles Dickens",
+    "incipit": "Marley was dead, to begin with. There is no doubt whatever about that."
+  },
+  {
+    "book": "A Frolic of His Own",
+    "author": "William Gaddis",
+    "incipit": "Justice?—You get justice in the next world, in this world you have the law."
+  },
+  {
+    "book": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "incipit": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair."
+  },
+  {
+    "book": "Aeneid",
+    "author": "Virgil",
+    "incipit": "I sing of arms and the man, he who, exiled by fate, first came from the coast of Troy to Italy, and to Lavinian shores – hurled about endlessly by land and sea, by the will of the gods, by cruel Juno’s remorseless anger, long suffering also in war, until he founded a city and brought his gods to Latium: from that the Latin people came, the lords of Alba Longa, the walls of noble Rome. Muse, tell me the cause: how was she offended in her divinity. how was she grieved, the Queen of Heaven, to drive a man, noted for virtue, to endure such dangers, to face so many trials? Can there be such anger in the minds of the gods?",
+    "language": "Latin",
+    "translator": "A. S. Kline"
+  },
+  {
+    "book": "All the King's Men",
+    "author": "Robert Penn Warren",
+    "incipit": "To get there you follow Highway 58, going northeast out of the city, and it is a good highway and new."
+  },
+  {
+    "book": "American Gods",
+    "author": "Neal Gaiman",
+    "incipit": "For thousands of years all kinds of people have been crossing the Atlantic Ocean from the old countries to the new world. And more often than not, they took their gods with them. And as it turns out, America is not a good place for gods."
+  },
+  {
+    "book": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "incipit": "All happy families are alike; every unhappy family is unhappy in its own way."
+  },
+  {
+    "book": "Augustus Carp, Esq. By Himself: Being the Autobiography of a Really Good Man",
+    "author": "Sir Henry Bashford",
+    "incipit": "It is customary, I have noticed, in publishing an autobiography to preface it with some sort of apology. But there are times, and surely the present is one of them, when to do so is manifestly unnecessary."
+  },
+  {
+    "book": "Blood Rites",
+    "author": "Jim Butcher",
+    "incipit": "The building was on fire, and it wasn't my fault."
+  },
+  {
+    "book": "Blue Nights",
+    "author": "Joan Didion",
+    "incipit": "In certain latitudes there comes a span of time approaching and following the summer solstice, some weeks in all, when the twilights turn long and blue."
+  },
+  {
+    "book": "Cat's Cradle",
+    "author": "Kurt Vonnegut",
+    "incipit": "Nothing in this book is true."
+  },
+  {
+    "book": "David Copperfield",
+    "author": "Charles Dickens",
+    "incipit": "Whether I shall turn out to be the hero of my own life, or whether that station will be held by anybody else, these pages must show."
+  },
+  {
+    "book": "Dune",
+    "author": "Frank Herbert",
+    "incipit": "A beginning is the time for taking the most delicate care that the balances are correct.",
+    "notes": "Verify"
+  },
+  {
+    "book": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "incipit": "It was a pleasure to burn."
+  },
+  {
+    "book": "Gardens of the Moon",
+    "author": "Steven Erikson",
+    "incipit": "The stains of rust seemed to map blood seas on the black, pocked surface of Mock's Vane."
+  },
+  {
+    "book": "Going Postal",
+    "author": "Terry Pratchett",
+    "incipit": "They say that the prospect of being hanged in the morning concentrates a man's mind wonderfully; unfortunately, what the mind inevitably concentrates on is that, in the morning, it will be in a body that is going to be hanged."
+  },
+  {
+    "book": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "incipit": "Scarlet O'Hara was not beautiful, but men seldom realized it when caught by her charm as the tarleton twins were."
+  },
+  {
+    "book": "Gospel of John",
+    "author": "St. John the Apostle",
+    "incipit": "In the beginning was the Word, and the Word was with God, and the Word was God."
+  },
+  {
+    "book": "Gravity's Rainbow",
+    "author": "Thomas Pynchon",
+    "incipit": "A screaming comes across the sky."
+  },
+  {
+    "book": "Harry Potter and the Deathly Hallows",
+    "author": "J.K. Rowling",
+    "incipit": "The two men appeared out of nowhere, a few yards apart in the narrow, moonlit lane."
+  },
+  {
+    "book": "Hello Lemuria, Hello",
+    "author": "Ron Goulart",
+    "incipit": "The assassin came in and ordered waffles."
+  },
+  {
+    "book": "House of Leaves",
+    "author": "Mark Z. Danielewski",
+    "incipit": "This is not for you."
+  },
+  {
+    "book": "Howl's Moving Castle",
+    "author": "Diana Wynne Jones",
+    "incipit": "In the land of Ingary where such things as seven-league boots and cloaks of invisibility really exist, it is quite a misfortune to be born the eldest of the three. Everyone knows you are the one who will fail first, and worst, if the three of you set out to seek your fortunes."
+  },
+  {
+    "book": "I Am Legend",
+    "author": "Richard Matheson",
+    "incipit": "On those cloudy days, Robert Neville was never sure when the sunset came, and sometimes they were in the street before he could get back."
+  },
+  {
+    "book": "I Am Malala",
+    "author": "Malala Yousafzai with Christina Lamb",
+    "incipit": "I come from a country that was created at midnight. When I almost died it was just after midday."
+  },
+  {
+    "book": "I Capture the Castle",
+    "author": "Dodie Smith",
+    "incipit": "I write this sitting in the kitchen sink."
+  },
+  {
+    "book": "Inverted World",
+    "author": "Christopher Priest",
+    "incipit": "I had reached the age of six hundred and fifty miles."
+  },
+  {
+    "book": "Ironweed",
+    "author": "William Kennedy",
+    "incipit": "Riding the winding road of Saint Agnes Cemetery in the back of the rattling old truck, Francis Phelan became aware that the dead, even more than the living, settled down in neighborhoods."
+  },
+  {
+    "book": "Island of the Aunts",
+    "author": "Eva Ibbotson",
+    "incipit": "Kidnapping children is never a good idea; all the same, sometimes it has to be done."
+  },
+  {
+    "book": "Jonathan Strange & Mr Norrell",
+    "author": "Susanna Clarke",
+    "incipit": "Some years ago there was in the city of York a society of magicians. They met upon the third Wednesday of every month and read each other long, dull papers upon the history of English magic."
+  },
+  {
+    "book": "Life, the Universe and Everything",
+    "author": "Douglas Adams",
+    "incipit": "The regular early morning yell of horror was the sound of Arthur Dent waking up and suddenly remembering where he was."
+  },
+  {
+    "book": "Lolita",
+    "author": "Vladimir Nabokov",
+    "incipit": "Lolita, light of my life, fire of my loins. My sin, my soul. Lo-lee-ta: the tip of the tongue taking a trip of three steps down the palate to tap, at three, on the teeth. Lo. Lee. Ta."
+  },
+  {
+    "book": "Love in the Time of Cholera",
+    "author": "Gabriel García Márquez",
+    "incipit": "It was inevitable: the scent of bitter almonds always reminded him of the fate of unrequited love."
+  },
+  {
+    "book": "Middle Passage",
+    "author": "Charles R. Johnson",
+    "incipit": "Of all the things that drive men to sea, the most common disaster, I've come to learn, is women."
+  },
+  {
+    "book": "Moby Dick",
+    "author": "Herman Melville",
+    "incipit": "Call me Ishmael."
+  },
+  {
+    "book": "Murphy",
+    "author": "Samuel Beckett",
+    "incipit": "The sun shone, having no alternative, on the nothing new."
+  },
+  {
+    "book": "My Life and Hard Times",
+    "author": "James Thurber",
+    "incipit": "I suppose that the high-water mark of my youth in Columbus, Ohio, was the night the bed fell on my father."
+  },
+  {
+    "book": "Neuromancer",
+    "author": "William Gibson",
+    "incipit": "The sky above the port was the color of television, tuned to a dead channel.'"
+  },
+  {
+    "book": "Night Watch",
+    "author": "Terry Pratchett",
+    "incipit": "Sam Vimes sighed when he heard the scream, but he finished shaving before he did anything about it."
+  },
+  {
+    "book": "Nine Princes in Amber",
+    "author": "Roger Zelazny",
+    "incipit": "It was starting to end, after what seemed most of an eternity to me."
+  },
+  {
+    "book": "Old Man's War",
+    "author": "John Scalzi",
+    "incipit": "I did two things on my seventy-fifth birthday. I visited my wife’s grave. Then I joined the army."
+  },
+  {
+    "book": "Out of the Dust",
+    "author": "Karen Hesse",
+    "incipit": "As summer wheat came ripe,\nso did I,\nborn at home, on the kitchen floor."
+  },
+  {
+    "book": "Out of the Silent Planet",
+    "author": "C. S. Lewis",
+    "incipit": "The last drops of the thundershower had hardly ceased falling when the Pedestrian stuffed his map into his pocket, settled his pack more comfortably on his tired shoulders, and stepped out from the shelter of a large chestnut-tree into the middle of the road."
+  },
+  {
+    "book": "Pale Fire",
+    "author": "Vladimir Nabokov",
+    "incipit": "I was the shadow of the waxwing slain / By the false azure in the windowpane;"
+  },
+  {
+    "book": "Paul Clifford",
+    "author": "Edward George Bulwer-Lytton",
+    "incipit": "It was a dark and stormy night; the rain fell in torrents, except at occasional intervals, when it was checked by a violent gust of wind which swept up the streets (for it is in London that our scene lies), rattling along the house-tops, and fiercely agitating the scanty flame of the lamps that struggled against the darkness."
+  },
+  {
+    "book": "Peter Pan",
+    "author": "J. M. Barrie",
+    "incipit": "All children except one grow up."
+  },
+  {
+    "book": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "incipit": "It is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife.'"
+  },
+  {
+    "book": "Rebecca",
+    "author": "Daphne du Maurier",
+    "incipit": "Last night I dreamt I went to Manderley again."
+  },
+  {
+    "book": "Scaramouche",
+    "author": "Rafael Sabatini",
+    "incipit": "He was born with a gift of laughter and the sense that the world was mad."
+  },
+  {
+    "book": "Silent in the Grave",
+    "author": "Deanna Raybourn",
+    "incipit": "To say that I met Nicholas Brisbane over my husband's dead body is not entirely accurate. Edward, it should be noted, was still twitching upon the floor."
+  },
+  {
+    "book": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "incipit": "All this happened, more or less."
+  },
+  {
+    "book": "Something Wicked This Way Comes",
+    "author": "Ray Bradbury",
+    "incipit": "First of all, it was October, a rare month for boys. Not that all months aren't rare. But there be bad and good, as the pirates say."
+  },
+  {
+    "book": "States of Matter",
+    "author": "D.L. Goodstein",
+    "incipit": "Ludwig Boltzman, who spent much of his life studying statistical mechanics, died in 1906, by his own hand. Paul Ehrenfest, carrying on the work, died similarly in 1933. Now it is our turn to study statistical mechanics. Perhaps it will be wise to approach the subject cautiously."
+  },
+  {
+    "book": "The Austere Academy",
+    "author": "Lemony Snicket",
+    "incipit": "If you were going to give a gold medal to the least delightful person on Earth, you would have to give that medal to a person named Carmelita Spats, and if you didn’t give it to her, Carmelita Spats was the sort of person who would snatch it from your hands anyway."
+  },
+  {
+    "book": "The Call of Cthulhu",
+    "author": "H.P. Lovecraft",
+    "incipit": "The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents."
+  },
+  {
+    "book": "The Divine Comedy",
+    "author": "Dante",
+    "incipit": "Midway in our life's journey, I went astray\n    from the straight road and woke to find myself\n    alone in a dark wood.",
+    "language": "Italian",
+    "translator": "John Ciardi"
+  },
+  {
+    "book": "The Giving Tree",
+    "author": "Shel Silverstein",
+    "incipit": "Once there was a tree...and she loved a little boy."
+  },
+  {
+    "book": "The Go-Between",
+    "author": "L.P. Hartley",
+    "incipit": "The past is a foreign country: they do things differently there."
+  },
+  {
+    "book": "The God Engines",
+    "author": "John Scalzi",
+    "incipit": "It was time to whip the god."
+  },
+  {
+    "book": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "incipit": "To the red country and part of the gray country of Oklahoma, the last rains came gently, and they did not cut the scarred earth."
+  },
+  {
+    "book": "The Gunslinger",
+    "author": "Stephen King",
+    "incipit": "The Man in Black fled across the desert, and the Gunslinger followed."
+  },
+  {
+    "book": "The Haunting of Hill House",
+    "author": "Shirley Jackson",
+    "incipit": "No live organism can continue for long to exist sanely under conditions of absolute reality; even larks and katydids are supposed, by some, to dream."
+  },
+  {
+    "book": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "incipit": "In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort."
+  },
+  {
+    "book": "The House of the Spirits",
+    "author": "Isabel Allende",
+    "incipit": "Barrabás came to us by sea, the child Clara wrote in her delicate calligraphy."
+  },
+  {
+    "book": "The Iliad",
+    "author": "Homer",
+    "incipit": "RAGE: \n            Sing, Goddess, Achilles' rage,\nBlack and murderous, that cost the Greeks\nIncalculable pain, pitched countless souls\nOf heroes into Hades' dark,\nAnd left their bodies to rot as feasts\nFor dogs and birds, as Zeus' will was done.\n    Begin with the clash between Agamemnon—\nThe Greek warlord—and godlike Achilles.",
+    "language": "Greek",
+    "translator": "Stanley Lombardo"
+  },
+  {
+    "book": "The Knife of Never Letting Go",
+    "author": "Patrick Ness",
+    "incipit": "The first thing you find out when yer dog learns to talk is that dogs don’t got nothing much to say. About anything."
+  },
+  {
+    "book": "The Last Good Kiss",
+    "author": "James Crumley",
+    "incipit": "When I finally caught up with Abraham Trahearne, he was drinking beer with an alcoholic bulldog named Fireball Roberts in a ramshackle joint just outside of Sonoma, California, drinking the heart right out of a fine spring afternoon."
+  },
+  {
+    "book": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "incipit": "I'll make my report as if I told a story, for I was taught as a child on my homeworld that Truth is a matter of the imagination."
+  },
+  {
+    "book": "The Light Fantastic",
+    "author": "Terry Pratchett",
+    "incipit": "The sun rose slowly, as if it wasn't sure it was worth the effort."
+  },
+  {
+    "book": "The Long Dark Tea-Time of the Soul",
+    "author": "Douglas Adams",
+    "incipit": "It can hardly be a coincidence that no language on earth has ever produced the expression “As pretty as an airport.”"
+  },
+  {
+    "book": "The Lorax",
+    "author": "Dr. Seuss",
+    "incipit": "At the far end of town\nwhere the Grickle-grass grows\nand the wind smells slow-and-sour when it blows\nand no birds ever sing excepting old crows...\nis the street of the Lifted Lorax."
+  },
+  {
+    "book": "The Luck of the Bodkins",
+    "author": "PG Wodehouse",
+    "incipit": "Into the face of the young man who sat on the terrace of the Hotel Magnifique at Cannes there had crept a look of furtive shame, the shifty, hangdog look which announces that an Englishman is about to talk French."
+  },
+  {
+    "book": "The Odyssey",
+    "author": "Homer",
+    "incipit": "Sing to me of the man, Muse, the man of twists and turns\ndriven time and again off course, once he had plundered\nthe hallowed heights of Troy.",
+    "language": "Greek",
+    "translator": "Robert Fagles"
+  },
+  {
+    "book": "The Phantom Tollbooth",
+    "author": "Norton Juster",
+    "incipit": "There was once a boy named Milo who didn't know what to do with himself - not just sometimes, but always. When he was in school he longed to be out, and when he was out he longed to be in. On the way he thought about coming home, and coming home he thought about going. Wherever he was he wished he were somewhere else, and when he got there he wondered why he'd bothered. Nothing really interested him - least of all the things that should have."
+  },
+  {
+    "book": "The Pillars of the Earth",
+    "author": "Ken Follett",
+    "incipit": "The small boys came early to the hanging."
+  },
+  {
+    "book": "The Princess Bride",
+    "author": "William Goldman",
+    "incipit": "This is my favorite book in all the world, though I have never read it."
+  },
+  {
+    "book": "The Red Badge of Courage",
+    "author": "Stephen Crane",
+    "incipit": "The cold passed reluctantly from the earth, and the retiring fogs revealed an army stretched out on the hills, resting."
+  },
+  {
+    "book": "The Restaurant at the End of the Universe",
+    "author": "Douglas Adams",
+    "incipit": "In the beginning, the universe was created. This has made a lot of people very angry and been widely regarded as a bad move."
+  },
+  {
+    "book": "The Satanic Verses",
+    "author": "Salman Rushdie",
+    "incipit": "To be born again,\" sang Gibreel Farishta tumbling from the heavens, \"first you have to die."
+  },
+  {
+    "book": "The Stars My Destination",
+    "author": "Alfred Bester",
+    "incipit": "He was one hundred and seventy days dying and not yet dead."
+  },
+  {
+    "book": "The Stranger",
+    "author": "Albert Camus",
+    "incipit": "Mother died today. Or maybe it was yesterday, I don't know."
+  },
+  {
+    "book": "The Voyage of the Dawn Treader",
+    "author": "C.S. Lewis",
+    "incipit": "There was a boy called Eustace Clarence Scrubb, and he almost deserved it."
+  },
+  {
+    "book": "The Westing Game",
+    "author": "Ellen Raskin",
+    "incipit": "The sun sets in the west (just about everyone knows that), but Sunset Towers faced east."
+  },
+  {
+    "book": "The Wife",
+    "author": "Meg Wolitzer",
+    "incipit": "The moment I decided to leave him, the moment I thought, enough, we were thirty-five thousand feet above the ocean, hurtling forward but giving the illusion of stillness and tranquility. Just like our marriage, I could have said, but why ruin everything right now?"
+  },
+  {
+    "book": "Their Eyes Were Watching God",
+    "author": "Zora Neale Hurston",
+    "incipit": "Ships at a distance have every man's wish on board."
+  },
+  {
+    "book": "There Is A Tide...",
+    "author": "Agatha Christie",
+    "incipit": "In every club there is a club bore. The Coronation Club was no exception; and the fact that an Air Raid was in progress made no difference to normal procedure."
+  },
+  {
+    "book": "Thief of Always",
+    "author": "Clive Barker",
+    "incipit": "The great gray beast February had eaten Harvey Swick alive."
+  },
+  {
+    "book": "Three Sideways Stories from Wayside School",
+    "author": "Louis Sachar",
+    "incipit": "We’re going to tell you about three of the children in Mrs. Jewls’s class, on the thirtieth story of Wayside School. But before we get to them, there is something you ought to know. Wayside School was accidentally built sideways. It was supposed to be only one story high, with thirty classrooms all in a row. Instead, it is thirty stories high, with one classroom on each story. The builder said he was very sorry."
+  },
+  {
+    "book": "To Sail Beyond the Sunset",
+    "author": "Robert Heinlein",
+    "incipit": "I woke up with a cat and a dead man. I knew the cat."
+  },
+  {
+    "book": "Tracks",
+    "author": "Robyn Davidson",
+    "incipit": "We started dying before the snow, and like the snow, we continued to fall."
+  },
+  {
+    "book": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "incipit": "Squire Trelawnay, Dr Livesey, and the rest of these gentlemen having asked me to write down the whole particulars about Treasure Island, from the beginning to the end, keeping nothing back but the bearings of the island, and that only because there is still treasure not yet lifted, I take up my pen in the year of grace 17-- and go back to the time when my father kept the Admiral Benbow inn and the brown old seaman with the sabre cut first took up his lodging under our roof."
+  },
+  {
+    "book": "Twelfth Night",
+    "author": "William Shakespeare",
+    "incipit": "If music be the food of love, play on."
+  },
+  {
+    "book": "Ulysses",
+    "author": "James Joyce",
+    "incipit": "Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed."
+  },
+  {
+    "book": "War in Heaven",
+    "author": "Charles Williams",
+    "incipit": "The telephone was ringing wildly, but without result, since there was no-one in the room but the corpse."
+  }
+]
