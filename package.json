@@ -1,0 +1,24 @@
+{
+  "name": "incipit",
+  "version": "1.0.0",
+  "description": "Best first lines in literature",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx @11ty/eleventy --serve",
+    "prod": "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briankoser/incipit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briankoser/incipit/issues"
+  },
+  "homepage": "https://github.com/briankoser/incipit#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
