@@ -4,21 +4,22 @@
   "description": "Best first lines in literature",
   "main": "index.js",
   "scripts": {
-    "dev": "npx @11ty/eleventy --serve",
-    "prod": "npx @11ty/eleventy"
+    "debug": "set DEBUG=Eleventy* & eleventy",
+    "dev": "eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod": "eleventy"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/briankoser/incipit.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Brian Koser",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/briankoser/incipit/issues"
   },
-  "homepage": "https://github.com/briankoser/incipit#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.10.0"
+    "@11ty/eleventy": "^2.0.1"
   }
 }
