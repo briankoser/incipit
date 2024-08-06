@@ -20,7 +20,9 @@
     "url": "https://github.com/briankoser/incipit/issues"
   },
   "homepage": "https://github.com/briankoser/incipit#readme",
-  "devDependencies": {
-    "@11ty/eleventy": "^2.0.1"
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-cache-assets": "^2.3.0",
+    "csv-parse": "^5.5.6"
   }
 }

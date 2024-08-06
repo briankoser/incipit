@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>{{ title }} · Incipit</title>
+    <meta name="description" content="{{ description }}">
+
+    <meta property="og:locale" content="en_US">
+    <meta property="og:site_name" content="incipit.koser.us">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://incipit.koser.us">
+    <meta property="og:title" content="Incipit" />
+    <meta property="og:description" content="Brian Koser's favorite incipits, the first lines of books" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicons/favicon-16x16.png">
+    <link rel="shortcut icon" href="/img/favicons/favicon.ico">
+
+    <link rel="stylesheet" href="/css/modern-normalize.css" />
+    <link rel="stylesheet" href="/css/base.css" />
+</head>
+<body>
+    <header class="site-header">
+        <div class="site-header-title">
+            <span class="site-title">Incipit</span>
+        </div>
+        <div class="site-header-nav-link">
+            <a href="#siteNav" class="site-nav-link">Menu</a>
+        </div>
+    </header>
+    <main class="container site-main">
+        {{ content | safe }}
+    </main>
+    <nav class="site-nav">
+        <ul id="siteNav" role="menu">
+            <li role="menuitem"><a href="/">Home</a></li>
+            <li role="menuitem"><a href="/all">All</a></li>
+            <li role="menuitem"><a href="/about">About</a></li>
+        </ul>
+    </nav>
+</body>
+</html>
