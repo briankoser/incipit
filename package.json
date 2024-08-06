@@ -19,6 +19,7 @@
   "bugs": {
     "url": "https://github.com/briankoser/incipit/issues"
   },
+  "homepage": "https://github.com/briankoser/incipit#readme",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
   }
