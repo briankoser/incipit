@@ -14,8 +14,6 @@ module.exports = async function() {
         output: "objects"
     });
 
-    console.log(JSON.stringify(records));
-
     return records.sort((a, b) => {
         return a.Book < b.Book
     });
