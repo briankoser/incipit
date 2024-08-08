@@ -1,6 +1,6 @@
 let quote = function(quote) {
     return `
-<figure class="quote">
+<figure>
     <blockquote>${quote.incipit}</blockquote>
     <figcaption>— ${quote.author}, <i>${quote.book}</i></figcaption>
 </figure>`;

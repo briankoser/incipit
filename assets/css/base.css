@@ -2,7 +2,7 @@
     Variables
 */
 :root {
-    --ratio: 1.3;
+    --ratio: 1.2;
     --s-5: calc(var(--s-4) / var(--ratio));
     --s-4: calc(var(--s-3) / var(--ratio));
     --s-3: calc(var(--s-2) / var(--ratio));
@@ -15,10 +15,8 @@
     --s4: calc(var(--s3) * var(--ratio));
     --s5: calc(var(--s4) * var(--ratio));
 
-    /* Improve consistency of default fonts in all browsers. (https://github.com/sindresorhus/modern-normalize/issues/3) */
-    --font-sans-stack: 'Helvetica Neue', 'Arial Nova', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
-    --font-regular: GoudyBookletter1911, var(--font-sans-stack);
-    --font-heading: GoudyBookletter1911, var(--font-sans-stack);
+    --font-regular: GoudyBookletter1911, serif;
+    --font-heading: GoudyBookletter1911, serif;
     --line-height: var(--ratio);
     --line-height-small: calc(0.7 * var(--ratio));
     --measure: 32rem;
@@ -138,6 +136,15 @@ p:first-child {
 blockquote {
     margin-left: 2em;
     quotes: '“' '”' '‘' '’'; 
+}
+
+figure {
+    margin-top: 2em;
+    max-width: 30em;
+}
+
+figcaption {
+    text-align: right;
 }
 
 
