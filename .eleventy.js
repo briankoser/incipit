@@ -10,6 +10,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addShortcode("quote", quote);
 
     eleventyConfig.addPassthroughCopy({'assets/css': 'css'});
+    eleventyConfig.addPassthroughCopy({'assets/fonts': 'fonts'});
     eleventyConfig.addPassthroughCopy({'assets/img': 'img'});
     eleventyConfig.addPassthroughCopy({'assets/js': 'js'});
     
