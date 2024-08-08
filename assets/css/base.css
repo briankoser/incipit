@@ -17,8 +17,8 @@
 
     /* Improve consistency of default fonts in all browsers. (https://github.com/sindresorhus/modern-normalize/issues/3) */
     --font-sans-stack: 'Helvetica Neue', 'Arial Nova', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
-    --font-regular: Concourse, var(--font-sans-stack);
-    --font-heading: ConcourseLight, var(--font-sans-stack);
+    --font-regular: GoudyBookletter1911, var(--font-sans-stack);
+    --font-heading: GoudyBookletter1911, var(--font-sans-stack);
     --line-height: var(--ratio);
     --line-height-small: calc(0.7 * var(--ratio));
     --measure: 32rem;
@@ -42,7 +42,13 @@
 /*
     font-face
 */
-
+@font-face {
+    font-family: GoudyBookletter1911;
+    font-display: swap;
+    src:
+        local("Goudy Bookletter 1911"),
+        url("/fonts/goudy_bookletter_1911-webfont.woff") format("woff");
+}
 
 
 
