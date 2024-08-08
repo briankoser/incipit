@@ -1,5 +1,5 @@
 const Cache = require("@11ty/eleventy-cache-assets");
-const Csv = require('csv-string');
+const FastCsv = require('@fast-csv/parse');
 
 module.exports = async function() {
     console.log("Fetching Incipits csv…");
@@ -10,11 +10,20 @@ module.exports = async function() {
         type: "csv"
     });
 
-    const records = Csv.parse(csvString, { 
-        output: "objects"
+    const records = await new Promise((resolve, reject) => {
+        const result = [];
+        FastCsv.parseString(csvString, { headers: true })
+            .on('data', row => result.push(row))
+            .on('error', error => { 
+                console.log(error);
+                reject(error);
+            })
+            .on('end', () => resolve(result));
     });
 
+    console.log(records);
+
     return records.sort((a, b) => {
-        return a.Book < b.Book
+        return a.book < b.book
     });
 }

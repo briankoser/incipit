@@ -23,6 +23,6 @@
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-cache-assets": "^2.3.0",
-    "csv-string": "^4.1.1"
+    "@fast-csv/parse": "^5.0.0"
   }
 }
