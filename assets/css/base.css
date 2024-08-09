@@ -123,6 +123,7 @@ body, .body {
     font-variant-numeric: oldstyle-nums;
     background-color: var(--color-white);
     color: var(--color-black);
+    padding: 5px;
 }
 
 p {
@@ -140,7 +141,6 @@ blockquote {
 
 figure {
     margin-top: 2em;
-    max-width: 30em;
 }
 
 figcaption {
@@ -257,16 +257,6 @@ nav li {
 
 ul.horizontal li {
   display: inline-block; }
-
-dl {
-    border-left: solid var(--color-black) 0.1em;
-    margin-left: -1em;
-    padding-left: 1em;
-}
-
-dd + dt {
-  margin-top: 1rem;
-}
 
 
 
@@ -390,10 +380,6 @@ a:focus {
     outline: 2px solid;
     outline-offset: .1em;
 }
-  
-small {
-    font-size: 0.889em;
-}
 
 
 
@@ -404,6 +390,16 @@ small {
     hr
 */
 
+
+
+
+
+/* 
+    classes
+*/
+.site-title {
+    font-weight: bold;
+}
 
 
 

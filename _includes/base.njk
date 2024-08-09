@@ -24,22 +24,13 @@
 </head>
 <body>
     <header class="site-header">
-        <div class="site-header-title">
-            <span class="site-title">Incipit</span>
-        </div>
-        <div class="site-header-nav-link">
-            <a href="#siteNav" class="site-nav-link">Menu</a>
-        </div>
+        <span class="site-title h1">Incipit</span>
+        <a href="/">Home</a></li> ·
+        <a href="/all">All</a></li> ·
+        <a href="/about">About</a></li>
     </header>
     <main class="container">
         {{ content | safe }}
     </main>
-    <nav class="site-nav">
-        <ul id="siteNav" role="menu">
-            <li role="menuitem"><a href="/">Home</a></li>
-            <li role="menuitem"><a href="/all">All</a></li>
-            <li role="menuitem"><a href="/about">About</a></li>
-        </ul>
-    </nav>
 </body>
 </html>
