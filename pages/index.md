@@ -15,9 +15,6 @@ permalink: /index.html
 </div>
 
 <script>
-  // Display previous button after first click of next button
-  document.getElementById('btnPrevious').style.display = "";
-
   // https://www.nieknijland.nl/blog/make-a-responsive-carousel-with-just-css
   const carousel = document.querySelector(".carousel");
 
@@ -26,11 +23,14 @@ permalink: /index.html
   const itemWidth = item.offsetWidth;
 
   function handleClick(direction) {
-      // Based on the direction we call `scrollBy` with the item width we got earlier
-      if(direction === "previous") {
-      carousel.scrollBy({ left: -itemWidth, behavior: "smooth" });
-      } else {
-      carousel.scrollBy({ left: itemWidth, behavior: "smooth" });
-      }
+    // Display previous button after first click of next button
+    document.getElementById('btnPrevious').style.display = "";
+
+    // Based on the direction we call `scrollBy` with the item width we got earlier
+    if(direction === "previous") {
+    carousel.scrollBy({ left: -itemWidth, behavior: "smooth" });
+    } else {
+    carousel.scrollBy({ left: itemWidth, behavior: "smooth" });
+    }
   }
 </script>
