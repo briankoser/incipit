@@ -6,6 +6,8 @@
     display: flex;
     gap: 8px;
     padding: 16px;
+    margin: initial;
+    max-width: initial;
     list-style: none;
     overflow-x: scroll;
     scroll-snap-type: x mandatory;

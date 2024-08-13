@@ -9,7 +9,7 @@ permalink: /index.html
   {% for incipit in incipits %}
     <li class="item"><div class="content">{% quote incipit %}</div></li>
   {% endfor %}
-    <button id="btnPrevious" onclick="handleClick('previous')" class="button button--previous" type="button" display="none">➜</button>
+    <button id="btnPrevious" onclick="handleClick('previous')" class="button button--previous" type="button" style="display:none;">➜</button>
     <button id="btnNext" onclick="handleClick('next')" class="button button--next" type="button">➜</button>
   </ul>
 </div>

@@ -167,11 +167,7 @@ figcaption {
     h6 
 */
 h1, .h1,
-h2, .h2,
-h3, .h3,
-h4, .h4,
-h5, .h5,
-h6, .h6 {
+h2, .h2 {
     font-variant-numeric: lining-nums;
     hyphens: auto;
     line-height: var(--line-height-small);
@@ -196,23 +192,7 @@ main h1 + * {
 
 h2, .h2 {
     font-size: var(--s1);
-    margin-top: var(--s1);
-    /* margin-bottom: var(--s1); */
-}
-
-h3, .h3,
-h4, .h4,
-h5, .h5,
-h6, .h6 {
-    font-weight: normal;
-    margin-top: var(--s0);
-}
-
-h3, .h3,
-h4, .h4,
-h5, .h5,
-h6, .h6 {
-    font-size: var(--s1);
+    margin-top: var(--s4);
 }
 
 @media only screen and (min-width: 800px) {
@@ -404,6 +384,7 @@ a:focus {
 */
 .site-title {
     font-weight: bold;
+    margin-right: 0.5em;
 }
 
 
