@@ -23,7 +23,5 @@ module.exports = async function() {
 
     console.log(records);
 
-    return records.sort((a, b) => {
-        return a.book < b.book
-    });
+    return records.sort( () => Math.random() - 0.5);
 }
