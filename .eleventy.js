@@ -3,10 +3,14 @@ let quote = function(quote) {
         ? `<blockquote><pre>${quote.incipit}</pre></blockquote>`
         : `<blockquote>${quote.incipit}</blockquote>`;
     
+    let translator = quote.translator == ''
+        ? ''
+        : ` (${quote.translator} translation)`;
+    
     return `
 <figure>
     ${blockquote}
-    <figcaption>— ${quote.author}, <i>${quote.book}</i></figcaption>
+    <figcaption>— ${quote.author}, <i>${quote.book}${translator} (${JSON.stringify(quote)})</i></figcaption>
 </figure>`;
 }
 
