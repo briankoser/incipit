@@ -137,6 +137,10 @@ ul {
     max-width: var(--measure);
 }
 
+pre {
+    font-family: var(--font-regular);
+}
+
 blockquote {
     margin-left: 2em;
     quotes: '“' '”' '‘' '’'; 

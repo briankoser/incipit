@@ -1,7 +1,11 @@
 let quote = function(quote) {
+    let blockquote = quote.preformatted
+        ? `<blockquote><pre>${quote.incipit}</pre></blockquote>`
+        : `<blockquote>${quote.incipit}</blockquote>`;
+    
     return `
 <figure>
-    <blockquote>${quote.incipit}</blockquote>
+    ${blockquote}
     <figcaption>— ${quote.author}, <i>${quote.book}</i></figcaption>
 </figure>`;
 }
