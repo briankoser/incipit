@@ -13,15 +13,16 @@ module.exports = async function() {
     const records = await new Promise((resolve, reject) => {
         const result = [];
         FastCsv.parseString(csvString, { headers: true })
-            .on('data', row => result.push(row))
+            .on('data', row => {
+                row.preformatted = row.preformatted == "TRUE" ? true : false;
+                result.push(row);
+            })
             .on('error', error => { 
                 console.log(error);
                 reject(error);
             })
             .on('end', () => resolve(result));
     });
-
-    console.log(records);
 
     return records.sort( () => Math.random() - 0.5);
 }

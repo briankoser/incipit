@@ -10,7 +10,7 @@ let quote = function(quote) {
     return `
 <figure>
     ${blockquote}
-    <figcaption>— ${quote.author}, <i>${quote.book}${translator} (${JSON.stringify(quote)})</i></figcaption>
+    <figcaption>— ${quote.author}, <i>${quote.book}${translator}</i></figcaption>
 </figure>`;
 }
 
