@@ -125,12 +125,16 @@ body, .body {
     padding: 5px;
 }
 
-p {
-    margin: var(--s0) 0;
+@media (pointer:fine) {
+    body {
+        padding: 1rem;
+    }
 }
 
-p:first-child {
-    margin-top: 0;
+p,
+ul {
+    margin: var(--s1) 0;
+    max-width: var(--measure);
 }
 
 blockquote {
