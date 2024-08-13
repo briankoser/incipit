@@ -21,7 +21,7 @@
 
     <link rel="stylesheet" href="/css/modern-normalize.css" />
     <link rel="stylesheet" href="/css/base.css" />
-    <link rel="stylesheet" href="/css/carousel.css" />
+    <link rel="stylesheet" href="/css/carousel2.css" />
 </head>
 <body>
     <header class="site-header">
@@ -33,5 +33,23 @@
     <main class="container">
         {{ content | safe }}
     </main>
+
+    <script>
+        // https://www.nieknijland.nl/blog/make-a-responsive-carousel-with-just-css
+        const list = document.querySelector(".list");
+
+        // We want to know the width of one of the items. We'll use this to decide how many pixels we want our carousel to scroll.
+        const item = document.querySelector(".item");
+        const itemWidth = item.offsetWidth;
+
+        function handleClick(direction) {
+            // Based on the direction we call `scrollBy` with the item width we got earlier
+            if(direction === "previous") {
+            list.scrollBy({ left: -itemWidth, behavior: "smooth" });
+            } else {
+            list.scrollBy({ left: itemWidth, behavior: "smooth" });
+            }
+        }
+    </script>
 </body>
 </html>

@@ -4,7 +4,7 @@ title: Home
 permalink: /index.html
 ---
 
-<section class="carousel" aria-label="Gallery">
+<!-- <section class="carousel" aria-label="Gallery">
   <ol class="carousel__viewport">
 {% for incipit in incipits %}
 <li id="carousel__slide{{ loop.index }}" tabindex="0" class="carousel__slide">
@@ -20,4 +20,14 @@ permalink: /index.html
 </li>
 {% endfor %}
   </ol>
-</section>
+</section> -->
+
+<div class="list-wrapper">
+  <ul class="list">
+  {% for incipit in incipits %}
+    <li class="item"><div class="content">{% quote incipit %}</div></li>
+  {% endfor %}
+    <button onclick="handleClick('previous')" class="button button--previous" type="button">➜</button>
+    <button onclick="handleClick('next')" class="button button--next" type="button">➜</button>
+  </ul>
+</div>
