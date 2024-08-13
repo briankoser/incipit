@@ -7,8 +7,7 @@ let quote = function(quote) {
         ? ''
         : ` (${quote.translator} translation)`;
     
-    return `
-<figure>
+    return `<figure>
     ${blockquote}
     <figcaption>— ${quote.author}, <i>${quote.book}${translator}</i></figcaption>
 </figure>`;
