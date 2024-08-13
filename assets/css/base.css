@@ -60,7 +60,6 @@
 */
 * {
     margin: 0;
-    max-width: var(--measure);
     overflow-wrap: break-word;
     padding: 0;
 }
@@ -133,10 +132,11 @@ p {
 p:first-child {
     margin-top: 0;
 }
-  
+
 blockquote {
     margin-left: 2em;
     quotes: '“' '”' '‘' '’'; 
+    max-width: var(--measure);
 }
 
 figure {
