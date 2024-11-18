@@ -129,6 +129,10 @@ body, .body {
     body {
         padding: 1rem;
     }
+
+    main {
+        padding-top: 1rem;
+    }
 }
 
 p,
@@ -394,10 +398,6 @@ a:focus {
 @media (pointer:fine) {
     .mobile-instructions {
         display: none;
-    }
-
-    .site-subtitle {
-        display: inline;
     }
 }
 

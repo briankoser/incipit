@@ -3,6 +3,7 @@ layout: base
 title: Home
 permalink: /index.html
 ---
+<span class="site-subtitle">My favorite opening lines 📚</span>
 <span class="mobile-instructions">Swipe for more ➜</span>
 
 <div class="carousel-wrapper">
