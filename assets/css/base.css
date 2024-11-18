@@ -391,6 +391,16 @@ a:focus {
     margin-right: 0.5em;
 }
 
+@media (pointer:fine) {
+    .mobile-instructions {
+        display: none;
+    }
+
+    .site-subtitle {
+        display: inline;
+    }
+}
+
 
 
 
